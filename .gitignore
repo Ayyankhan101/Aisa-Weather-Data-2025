@@ -1,0 +1,8 @@
+# Ignore the downloaded data file
+asia_weather_data_2025.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
